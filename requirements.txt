@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+mne
+tensorflow>=2.12
+keras
+jupyter
